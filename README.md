@@ -7,9 +7,9 @@ Git and GitHub Practical Implementation
 
 ### 2. Student Information
 - **Student Name:** Nafees Ashiq
-- **Registration Number:** [Enter Your Registration Number]
+- **Registration Number:** 24-arid-4902
 - **Course:** Software Construction and Development
-- **Semester:** [Enter Semester]
+- **Semester:** SE 5
 
 ### 3. Repository Description
 This repository contains the practical implementation of Assignment 2 for the Software Construction and Development course. It demonstrates basic Git and GitHub operations, including repository creation, file management, commits, branching, merging, and pull requests.
@@ -34,5 +34,5 @@ This repository contains the practical implementation of Assignment 2 for the So
 ### 6. Assignment Submission
 **Repository Link:** https://github.com/Nafees-ashiq/SCD-Lab-Assignment
 
-**Assignment:** 2  
+**Lab Assignment:** 2  
 **Session:** Fall 2026
